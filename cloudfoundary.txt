@@ -1,0 +1,8 @@
+download cloudfoundary cli github releases
+install set path
+cf in powershell
+cf login
+http://api.run.pivotal.io/
+user passwd of IBM creds
+cf create-org AA
+
